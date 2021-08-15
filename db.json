@@ -4,6 +4,26 @@
       "id": 1,
       "title": "API POST",
       "content": "content for my post"
+    },
+    {
+      "title": "Newly created API post",
+      "content": "Some content",
+      "id": 2
+    },
+    {
+      "title": "Third post creation",
+      "content": "Asdkj",
+      "id": 3
+    },
+    {
+      "title": "4",
+      "content": "Ass",
+      "id": 4
+    },
+    {
+      "title": "Ad blog post 5",
+      "content": "Asdasd",
+      "id": 5
     }
   ]
 }
